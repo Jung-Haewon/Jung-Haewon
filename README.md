@@ -1,5 +1,7 @@
 <div align=center><h3>
-  우리 건랜스 절대 약하지 않습니다
+  Main Job: Umamusume Trainer
+  Second Job: Monster Hunter Gun Lancer
+  Hobby: Computer Engineer & Software Security
   </h3>
   <br/>
 </div>
@@ -16,7 +18,12 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+  
   <br>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">
+  <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=IEEE&logoColor=white">
+  
   <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=speedheawon)](https://solved.ac/speedheawon)
