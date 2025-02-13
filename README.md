@@ -15,6 +15,6 @@
   <br>
   <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjy0841)](https://solved.ac/yjy0841)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=speedheawon)](https://solved.ac/speedheawon)
 
 </div>
