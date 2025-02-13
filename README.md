@@ -8,6 +8,7 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/blockchain-FFFFFF?style=for-the-badge&logo=blockchain&logoColor=white">
   
   <br>
   <br>
