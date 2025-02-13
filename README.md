@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=IEEE&logoColor=white">
   
   <br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=speedheawon)](https://solved.ac/speedheawon)
 
