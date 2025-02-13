@@ -1,7 +1,7 @@
 <div align=center><h3>
   Main Job: Umamusume Trainer
   <br>
-  Second Job: Monster Hunter Gun Lancer
+  <h4>Second Job: Monster Hunter Gun Lancer<h4>
   <br>
   Hobby: Computer Engineer & Software Security
   </h3>
