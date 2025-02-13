@@ -8,7 +8,7 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   
   <br>
   <br>
