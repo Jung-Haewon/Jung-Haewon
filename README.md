@@ -2,7 +2,6 @@
   <h3>Main Job: Umamusume Trainer</h3>
   <h4>Second Job: Monster Hunter Gun Lancer</h4>
   <h5>Hobby: Computer Engineer & Software Security</h5>
-  <br/>
 </div>
   
 <div align=center><h1>🌌 STACKS</h1></div>
