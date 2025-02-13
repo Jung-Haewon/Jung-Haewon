@@ -8,7 +8,7 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=EC2&logoColor=black">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=EC2&logoColor=black">
   
   
   <br>
