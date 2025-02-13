@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   
   <br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/C#-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <br>
   <br>
 
