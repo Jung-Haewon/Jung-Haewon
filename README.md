@@ -10,7 +10,6 @@
   <br>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-  <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">
   
   <br>
   <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=IEEE&logoColor=white">
